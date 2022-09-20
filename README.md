@@ -1,6 +1,3 @@
-# Dynamo-DB
-Boas práticas com DynamoDB - Dio
-
 # dio-live-dynamodb
 Repositório para o live coding do Amazon DynamoDB
 
